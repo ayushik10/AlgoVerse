@@ -1,1 +1,1 @@
-# AlgoVersa
+# AlgoVerse
